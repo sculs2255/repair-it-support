@@ -2,7 +2,7 @@
     
 </template>
 
-// boat
+
 <script>
 export default {
     
