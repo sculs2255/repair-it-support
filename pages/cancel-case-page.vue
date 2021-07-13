@@ -1,5 +1,7 @@
 <template><div>
-    <h1> เพิ่่มนะอันนี้ ............</h1>
+    <h1> Kraisorn Chaipudsa</h1>
+    <h1> Chanatip</h1>
+    
 </div>
 
 </template>
